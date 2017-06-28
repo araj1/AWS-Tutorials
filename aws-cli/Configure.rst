@@ -1,5 +1,5 @@
-# In file ~/.aws/credentials
-#Windows :- C:\Users\USERNAME \.aws\credentials 
+**In file ~/.aws/credentials**
+**Windows :- C:\Users\USERNAME \.aws\credentials** 
 
 [default]
 aws_access_key_id=DEFAULT_VALUE
@@ -15,16 +15,16 @@ output = json
 
 #Setting up Mutiple Profiles
 
-# In file ~/.aws/credentials
-#Windows :- C:\Users\USERNAME \.aws\credentials 
+**In file ~/.aws/credentials**
+**Windows :- C:\Users\USERNAME \.aws\credentials** 
 
 [my_profile]
 aws_access_key_id=MY_PROFILE_VALUE
 aws_secret_access_key=MY_PROFILE_VALUE
 
 
-# In file ~/.aws/config
-#C:\Users\USERNAME \.aws\config
+**In file ~/.aws/config**
+**C:\Users\USERNAME \.aws\config**
 
 [profile my_profile]
 region=MY_PROFILE_VALUE
