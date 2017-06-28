@@ -9,8 +9,11 @@ This gives us the ability to configuring multiple AWS services from the command 
 pip install awscli (Requires Python 2.6.5 or higher)
 
 To install pip :- 
+
 i) curl https://bootstrap.pypa.io/ez_setup.py -o - | sudo python
+
 ii) sudo easy_install pip
+
 iii) pip install regex 
 
 # Windows  (Requires Python 3.4.0 or higher)
