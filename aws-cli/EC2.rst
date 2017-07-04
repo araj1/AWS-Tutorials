@@ -18,13 +18,15 @@ Command::
   
   aws ec2 run-instances --image-id ami-49118629 --count 1 --instance-type m3.medium --key-name MyKeyPair
   
-  **To stop Amazon EC2 instance**
+
+**To stop Amazon EC2 instance**
   
 Command::  
   
   aws ec2 stop-instances --instance-ids  i-068c626a7ab362033
   
-   **To terminate Amazon EC2 instance**
+  
+  **To terminate Amazon EC2 instance**
    
 Command::   
 
