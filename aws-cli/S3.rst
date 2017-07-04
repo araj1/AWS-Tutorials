@@ -29,7 +29,7 @@ The following ``cp`` command copies a single object to a specified bucket while 
 
 **Recursively copying S3 objects to a local directory**
 
-    aws s3 cp s3://mybucket . --recursive
+    aws s3 cp s3://mybucket myDir --recursive
 
 
 **Recursively copying local files to S3**
