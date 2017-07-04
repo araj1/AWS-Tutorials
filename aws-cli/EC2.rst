@@ -2,7 +2,7 @@
 
 Command::
 
-aws ec2 create-key-pair --key-name MyKeyPair
+  aws ec2 create-key-pair --key-name MyKeyPair
 
 **To describe an Amazon EC2 instance**
 
@@ -27,6 +27,7 @@ Command::
    **To terminate Amazon EC2 instance**
    
 Command::   
+
   aws ec2 terminate-instances --instance-ids  i-068c626a7ab362033
 
 
