@@ -6,7 +6,7 @@ This gives us the ability to configuring multiple AWS services from the command 
 
 # Mac (OSX)
 
-pip install awscli (Requires Python 2.6.5 or higher)
+1. pip install awscli (Requires Python 2.6.5 or higher)
 
 To install pip :- 
 
